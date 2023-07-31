@@ -1,0 +1,14 @@
+{
+  "name": "m3c",
+  "version": "1.0.0",
+  "description": "converts youtube url to mp3",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "\"Brian Mai\"",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
